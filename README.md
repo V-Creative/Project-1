@@ -3,6 +3,8 @@
 The files in this repository were used to configure the network depicted below.
 
 [Project-1/Homework 12.png](https://github.com/V-Creative/Project-1/blob/0dc7a5a4e88d4c171c65d50da93f579d138008e6/Homework%2012.png)
+![image](https://user-images.githubusercontent.com/91346174/174458811-1f94116d-3375-41f0-b34d-e486cd83394a.png)
+
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
