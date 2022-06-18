@@ -81,13 +81,18 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-[Web-1](https://github.com/V-Creative/Project-1/blob/cc14de7c498302d9bf29296c263d2801505f365f/docker_ps_web1png) 
+[Web-1](https://github.com/V-Creative/Project-1/blob/cc14de7c498302d9bf29296c263d2801505f365f/docker_ps_web1png)
+![image](https://user-images.githubusercontent.com/91346174/174459748-b160a7e8-6ea6-49d5-961c-1c0955f2079e.png)
 
-**[Web-2]**
-(https://github.com/V-Creative/Project-1/blob/cc14de7c498302d9bf29296c263d2801505f365f/docker_ps_web2.png)
 
-**[DVWA]**
-(https://github.com/V-Creative/Project-1/blob/cc14de7c498302d9bf29296c263d2801505f365f/docker_ps_dvwa.png)
+[Web-2](https://github.com/V-Creative/Project-1/blob/cc14de7c498302d9bf29296c263d2801505f365f/docker_ps_web2.png)
+![image](https://user-images.githubusercontent.com/91346174/174459750-921a3b41-01e3-4f00-ae00-7c720be405ab.png)
+
+
+[DVWA](https://github.com/V-Creative/Project-1/blob/cc14de7c498302d9bf29296c263d2801505f365f/docker_ps_dvwa.png)
+![image](https://user-images.githubusercontent.com/91346174/174459744-c8d100a1-2310-4e6f-9883-f510c8dc75a1.png)
+
+
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
