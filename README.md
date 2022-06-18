@@ -24,16 +24,16 @@ The main purpose of this network is to expose a load-balanced and monitored inst
 
 Load balancing ensures that the application will be highly functional and available, in addition to restricting traffic to the network.
 - _TODO: What aspect of security do load balancers protect? 
-- Load balancers add resiliency by rerouting live traffic from one server to another if a server falls prey to a DDoS attack or otherwise becomes unavailable.
+ - Load balancers add resiliency by rerouting live traffic from one server to another if a server falls prey to a DDoS attack or otherwise becomes unavailable.
 
 What is the advantage of a jump box?
 - A Jump Box Provisioner is also important as it prevents Azure VMs from being exposed via a public IP Address. This allows us to do monitoring and logging on a single box. We can also restrict the IP addresses able to communicate with the Jump Box, as we've done here.
 
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the netowrk and system log.
 - _TODO: What does Filebeat watch for?
-- Filebeat monitors the log files or locations that you specify, collects log events, and forwards them either to Elasticsearch or Logstash for indexing.
+ - Filebeat monitors the log files or locations that you specify, collects log events, and forwards them either to Elasticsearch or Logstash for indexing.
 - _TODO: What does Metricbeat record?
-- Metricbeat takes the metrics and statistics that it collects and ships them to the output
+ - Metricbeat takes the metrics and statistics that it collects and ships them to the output
 
 The configuration details of each machine may be found below.
 
